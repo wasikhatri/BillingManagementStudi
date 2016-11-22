@@ -1,0 +1,12 @@
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\bin\Debug\BillingManagementStudi.exe.config
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\bin\Debug\BillingManagementStudi.exe
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\bin\Debug\BillingManagementStudi.pdb
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.csprojResolveAssemblyReference.cache
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.LoginForm.resources
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.Properties.Resources.resources
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.csproj.GenerateResource.Cache
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.exe
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.pdb
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.ResetPassword.resources
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.Main.resources
+c:\users\wasii-pc\documents\visual studio 2015\Projects\BillingManagementStudi\BillingManagementStudi\obj\Debug\BillingManagementStudi.CreateBill.resources
