@@ -16,5 +16,10 @@ namespace BillingManagementStudi
         {
             InitializeComponent();
         }
+
+        private void btn_Create_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

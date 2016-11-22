@@ -143,6 +143,7 @@
             this.btn_Create.TabIndex = 13;
             this.btn_Create.Text = "CreateBill";
             this.btn_Create.UseVisualStyleBackColor = true;
+            this.btn_Create.Click += new System.EventHandler(this.btn_Create_Click);
             // 
             // CreateBill
             // 
