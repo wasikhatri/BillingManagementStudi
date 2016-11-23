@@ -40,6 +40,9 @@ namespace BillingManagementStudi
             {
                 MessageBox.Show("Password not Matched..");
                 MessageBox.Show("Commit Checking");
+                MessageBox.Show("Commit Checking");
+                MessageBox.Show("Commit Checking");
+                MessageBox.Show("Commit Checking");
             }
         }
 

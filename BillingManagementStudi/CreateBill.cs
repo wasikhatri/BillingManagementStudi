@@ -15,6 +15,10 @@ namespace BillingManagementStudi
         public CreateBill()
         {
             InitializeComponent();
+            MessageBox.Show("Commit Checking");
+            MessageBox.Show("Commit Checking");
+            MessageBox.Show("Commit Checking");
+            MessageBox.Show("Commit Checking");
         }
     }
 }

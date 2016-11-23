@@ -43,7 +43,11 @@ namespace BillingManagementStudi
                         reset = new ResetPassword(txt_username.Text);
                         reset.Show();
                         txt_username.Text="";
-                        txt_password.Text=""; 
+                        txt_password.Text="";
+                        txt_username.Text = "";
+                        txt_password.Text = "";
+                        txt_username.Text = "";
+                        txt_password.Text = "";
                     }
                     else
                     {
